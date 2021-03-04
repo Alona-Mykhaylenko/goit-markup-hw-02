@@ -68,6 +68,10 @@ body {
   letter-spacing: 0.02em;
 }
 
+.site-navigation .link.current {
+  color: var(--accent-color);
+}
+
 .header-contacts .link {
   color: var(--primary-text-color);
   font-weight: 500;
